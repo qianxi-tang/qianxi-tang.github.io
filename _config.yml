@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://Qianxitang.github.io
+url: https://qianxi-tang.github.io/
 
 
 # --------------------------------------------------
@@ -18,7 +18,7 @@ owner:
   avatar: TQXpic.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: qianxi@hust.edu.com
-  cv: https://Qianxitang.github.io/file/QianxiTangCV.pdf
+  cv: https://qianxi-tang.github.io/file/QianxiTangCV.pdf
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
  
