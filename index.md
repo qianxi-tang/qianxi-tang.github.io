@@ -22,7 +22,7 @@ If you're interested in collaborating, feel free to reach out at —  **qianxi [
 
 - [My ORCID in research](https://orcid.org/0009-0001-2397-2385)
 - Grid-forming inverters & low-inertia power systems
-- Sliding-mode control, contraction control for nonlinear system 
+- Sliding-mode control, nonlinear control for power electronics 
 - Large scale synchronization and current sharing of inverters
 
 ---
