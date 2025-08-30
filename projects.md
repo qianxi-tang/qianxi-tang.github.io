@@ -4,59 +4,6 @@ permalink: /Projects/index.html
 title: Projects
 ---
 
-<style>
-  :root{
-    --card-max: 980px;                         /* max card width */
-    --banner-h: clamp(120px, 16vw, 220px);     /* shorter banner height */
-  }
-
-  /* stack cards vertically and center them */
-  .projects { display:block !important; }
-  .projects .card{
-    max-width: var(--card-max);
-    margin: 0 auto 2rem;
-    padding: 1rem 1.1rem;
-    border: 1px solid #e5e7eb;
-    border-radius: 14px;
-    background: #fff;
-    box-sizing: border-box;
-  }
-
-  /* top image row: with one image it becomes a full-width banner */
-  .third{
-    display:grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap:12px;
-    margin: 0 0 .75rem 0;
-  }
-  .third img{
-    width:100%;
-    height: var(--banner-h);
-    object-fit: cover;         /* neat crop */
-    display:block;
-    border-radius:10px;
-  }
-  .third > img:only-child{ grid-column: 1 / -1; }
-
-  /* small, theme-friendly chips */
-  .tags { margin:.25rem 0 .5rem 0; }
-  .tag{
-    display:inline-block; font-size:.72rem; padding:.12rem .5rem;
-    border:1px solid #d1d5db; border-radius:9999px; margin:.15rem .35rem .15rem 0;
-    white-space:nowrap;
-  }
-  .meta{ font-size:.95rem; opacity:.85; margin:.15rem 0 .35rem 0; }
-  .list{ margin:.25rem 0 0 1.1rem; }
-
-  /* dark mode tweak (optional) */
-  @media (prefers-color-scheme: dark){
-    .projects .card{ background:#101214; border-color:#2a2f34; }
-  }
-
-  @media (max-width: 820px){
-    .third{ grid-template-columns: repeat(2, 1fr); }
-  }
-</style>
 
 _Last updated: Aug 30, 2025_
 

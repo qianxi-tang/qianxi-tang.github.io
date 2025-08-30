@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://https://qianxi-tang.github.io/images/MeC112.jpg" class="floatpic" alt="Me" style="width:500px; height:auto; margin:0 0 1rem 1.25rem;">
+<img src="https://qianxi-tang.github.io/images/MeC112.jpg" class="floatpic" alt="Me" style="width:500px; height:auto; margin:0 0 1rem 1.25rem;">
 
 
 Here is **Qianxi Tang (汤仟禧)**.<br>
