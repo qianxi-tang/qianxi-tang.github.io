@@ -14,7 +14,7 @@ _Last updated: Aug 30, 2025_
 </div>
   2025– · Large-scale synchronization & power sharing of inverters · Nonlinear theory (GFM/GCFI)<br>
   We design unified droop/VOC/SMC behaviors under a single contraction metric. The method yields *exponential* convergence of phases and voltages, proportional power sharing without a slack bus, and fast non-oscillatory current limiting during faults/large disturbances—robust to parameter spread and changing network R/X and SCR.<br>
-  **Focus:** metric synthesis; DC–AC coupled modeling; distributed sharing laws<br>
+  -**Focus:** metric synthesis; DC–AC coupled modeling; distributed sharing laws<br>
   **Tools:** MATLAB/Simulink, PLECS/EMT, Python (CVX/YALMIP)<br>
 
 - **450 V ↔ 3 V Bidirectional Isolated DC-DC**<br>
