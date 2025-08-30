@@ -4,37 +4,37 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
+<img src="https://Qianxitang.github.io/images/MeC112.jpg" class="floatpic" alt="Me" style="width:400px; height:auto; margin:0 0 1rem 1.25rem;">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan) and [Dr. Kai Li](https://sites.google.com/site/lukasunsw/Home), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+Here is **Qianxi Tang (汤仟禧)**.<br>
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+I am a Ph.D. student in the Department of Applied Electronic Engineering at the School of Electrical and Electronic Engineering, Huazhong University of Science and Technology (HUST), advised by [Prof. Li Peng](https://ieeexplore.ieee.org/author/37085451285). My work focuses on inverter technology for modern low-inertia power systems—grid-forming control, sliding-mode methods, and stability/resilience of inverter-dominated grids.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+Before HUST, I earned a B.Eng. in Electrical Engineering and its Automation (Rail Traction Electrification) from Beijing Jiaotong University, where my thesis on cooperative multi-agent systems received the Outstanding Undergraduate Thesis award.
+
+If you're interested in collaborating, feel free to reach out at —  **qianxi [at] hust.edu.cn**. I am looking for a postdoctoral position.
+
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
-- Large Language Model Agents
+- [My ORCID in research](https://orcid.org/0009-0001-2397-2385)
+- Grid-forming inverters & low-inertia power systems
+- Sliding-mode control, contraction control for nonlinear system 
+- Large scale synchronization and current sharing of inverters
 
 ---
 
 ## News and Updates
 
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **May 2025**：Won Third Prize in The 4th Sungrow University Innovation Contest (450 V↔3 V, 550 W bidirectional DC-DC).
+- **Nov 2024**：Received Best Presentation Recognition at IECON 2024 (Chicago) for "A Slack-Bus Grid-Forming Inverter Based on Symmetric Sliding-Mode Control".
+- **2024–-until now**：Served as reviewer for IEEE Transactions on Industrial Electronics (TIE), and IECON 2024.
+- **March 2024**：Prototyped a high-efficiency grid-connected converter with independent capacitor-voltage control, all-device soft-switching, and full four-quadrant operation.
+- **Jun 2022**：Completed B.Eng. at Beijing Jiaotong University; thesis The Cooperative Multi-Agent System awarded Outstanding Undergraduate Thesis.
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=500&t=tt&d=673ViKjtWToRF8369NnIp4bGgi8sr3cad7R0gByhMsU&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
