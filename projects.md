@@ -8,7 +8,7 @@ _Last updated: Aug 30, 2025_
 
 ## Major Projects
 
-- **Synchronization for Renewable-Energy–Based Inverters (Contraction & GCFI)**<br>
+- **Synchronization for Renewable-Energy–Based Inverters**<br>
 <div>
  <img src="/images/Large.png" alt="Synchronization of large-scale inverters" loading="lazy">
 </div>
