@@ -29,8 +29,8 @@ If you're interested in collaborating, feel free to reach out at —  **qianxi [
 
 ## News and Updates
 
-- **May 2025**：Won Third Prize in The 4th Sungrow University Innovation Contest (450 V↔3 V, 550 W bidirectional DC-DC).
-- **Nov 2024**：Received Best Presentation Recognition at IECON 2024 (Chicago) for "A Slack-Bus Grid-Forming Inverter Based on Symmetric Sliding-Mode Control".
+- **May 2025**：Won Third Prize in [The 4th Sungrow University Innovation Contest](https://mp.weixin.qq.com/s/tuxwOgw0oxZdeganwvs1YA) (450 V↔3 V, 550 W bidirectional DC-DC).
+- **Nov 2024**：Received [Best Presentation Recognition] (https://mp.weixin.qq.com/s/cnItISCCbkhpFA75EaSYCA) at IECON 2024 (Chicago) for "A Slack-Bus Grid-Forming Inverter Based on Symmetric Sliding-Mode Control".
 - **2024–-until now**：Served as reviewer for IEEE Transactions on Industrial Electronics (TIE), and IECON 2024.
 - **March 2024**：Prototyped a high-efficiency grid-connected converter with independent capacitor-voltage control, all-device soft-switching, and full four-quadrant operation.
 - **Jun 2022**：Completed B.Eng. at Beijing Jiaotong University; thesis The Cooperative Multi-Agent System awarded Outstanding Undergraduate Thesis.
