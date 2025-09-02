@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
   <!-- 主页 -->
-  <url>
-    <loc>https://qianxi-tang.github.io/</loc>
-  </url>
+  <url><loc>https://qianxi-tang.github.io/</loc></url>
 
-  <!-- 项目页 -->
-  <url>
-    <loc>https://qianxi-tang.github.io/Projects/</loc>
-  </url>
+  <!-- 注意大小写：你的导航是 /Projects/（P 大写） -->
+  <url><loc>https://qianxi-tang.github.io/Projects/</loc></url>
 
-  <!-- 我的简历（PDF 也可以放进站点地图） -->
-  <url>
-    <loc>https://qianxi-tang.github.io/file/QianxiTangCV.pdf</loc>
-  </url>
+  <!-- 其它独立页面（这些文件在仓库根：publications.md / awards.md / blogs.md / hobbies.md / cn.md） -->
 
+  <url><loc>https://qianxi-tang.github.io/cn/</loc></url>
+
+  <!-- 你的在线简历 PDF -->
+  <url><loc>https://qianxi-tang.github.io/file/QianxiTangCV.pdf</loc></url>
 </urlset>
