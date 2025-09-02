@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- 主页 -->
+  <url>
+    <loc>https://qianxi-tang.github.io/</loc>
+  </url>
+
+  <!-- 项目页 -->
+  <url>
+    <loc>https://qianxi-tang.github.io/Projects/</loc>
+  </url>
+
+  <!-- 我的简历（PDF 也可以放进站点地图） -->
+  <url>
+    <loc>https://qianxi-tang.github.io/file/QianxiTangCV.pdf</loc>
+  </url>
+
+</urlset>
